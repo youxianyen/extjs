@@ -1,0 +1,2 @@
+https://cdnjs.cloudflare.com/ajax/libs/extjs/6.0.0/classic/theme-classic/resources/images/form/date-trigger.gif
+
